@@ -10,6 +10,7 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
+      
       {
         "tab": "Guides",
         "groups": [
@@ -21,11 +22,19 @@
               "development"
             ]
           },
+
           {
             "group": "Customization",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
+            ]
+          },
+          {
+            "group": "Architecture",
+            "pages": [
+              "architecture-overview",
+              "algebraic-core"
             ]
           },
           {
